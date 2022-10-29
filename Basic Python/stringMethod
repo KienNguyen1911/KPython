@@ -1,0 +1,13 @@
+name = "Kien Bro 😊"
+
+print(len(name))
+print(name.find("o"))
+print(name.capitalize())
+print(name.upper())
+print(name.lower())
+print(name.isdigit())
+print(name.isalpha())
+# alphal is false because there are 2 spaces and icon
+print(name.count("😊"))
+print(name.replace("i", "o"))
+print(name*3)
